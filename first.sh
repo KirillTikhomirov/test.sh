@@ -1,3 +1,1 @@
-echo "Hello, people!"
-
-echo date
+echo "Hello!"
